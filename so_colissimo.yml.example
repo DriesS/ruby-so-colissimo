@@ -11,5 +11,5 @@ production:
   password: "password"
 
 test:
-  username: "880072"
-  password: "INTE479"  
+  username: "user"
+  password: "password"  
