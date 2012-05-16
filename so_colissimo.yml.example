@@ -1,0 +1,15 @@
+development:
+  username: "user"
+  password: "password"
+
+staging:
+  username: "user"
+  password: "password"
+
+production:
+  username: "user"
+  password: "password"
+
+test:
+  username: "880072"
+  password: "INTE479"  
