@@ -1,5 +1,5 @@
 module SoColissimo
-	class Response
+  class Response
 
-	end
+  end
 end
